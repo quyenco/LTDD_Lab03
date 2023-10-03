@@ -113,5 +113,6 @@ const styles = StyleSheet.create({
     lineHeight: 21.09,
     textAlign:'center',
     marginRight: 30,
-  }
+  },
+ 
 });
